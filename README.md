@@ -29,7 +29,7 @@ It allows you to **decompile**, **edit**, **rebuild**, and **customize** any APK
 
 ## 📥 Download
 
-You can download the latest release from the **official GitHub repository**:
+You can download the latest release:
 
 👉 [Download Apk Editor Pro](https://exe.io/apk-editor-pro)
 
