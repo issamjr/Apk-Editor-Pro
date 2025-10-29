@@ -60,7 +60,7 @@ git commit -m "Add new feature"
 git push origin main
 ```
 
-👉 Open an Issue if you find bugs or have suggestions.
+👉 Open an  [Issue](https://github.com/issamjr/Apk-Editor-Pro/issues) if you find bugs or have suggestions.
 
 ---
 
