@@ -9,6 +9,17 @@
 
 ---
 
+## Support the Project
+
+If you enjoy using this app and want to support its development, you can donate Bitcoin (BTC) to help us keep improving it. Every contribution is greatly appreciated!
+
+**Bitcoin Wallet (Binance):**  
+`bc1p2ukdxcsln7l56ckyu5mjt8wxeh4v6u755qm45ppu4pggkrdahptqpcaqwu`
+
+Thank you for your support! 🙏
+
+---
+
 ## 📦 Overview
 
 **Apk Editor Pro** is a powerful and easy-to-use tool for modifying Android APK files.  
