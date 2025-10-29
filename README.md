@@ -31,8 +31,8 @@ It allows you to **decompile**, **edit**, **rebuild**, and **customize** any APK
 
 You can download the latest release:
 
-👉 [Download Apk Editor Pro](https://exe.io/apk-editor-pro)
-
+👉 [Download Apk Editor Pro](https://exe.io/APK-Editor-Pro)
+**All problems have been fixed**
 ---
 
 ## ⚙️ How to Use
