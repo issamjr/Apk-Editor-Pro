@@ -1,8 +1,3 @@
-# apk-editor-pro
-### version 3.0 pro
-<img src="https://github.com/issamiso/apk-editor-pro/raw/main/icon.png">
-
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/issamjr/Apk-Editor-Pro/main/icon.png" width="100" height="100"><br>
   Apk Editor Pro
